@@ -1,6 +1,6 @@
 # Machine-Learning-for-W-Boson-LHC-Jets-Classification
 
-Note: This code is part of the code I wrote as my submission for the mini project from PHAS0056 Practical Machine Learning.
+Note: This code is part of the code I wrote as my submission for a project from PHAS0056 Practical Machine Learning.
 
 ## Introduction
 
